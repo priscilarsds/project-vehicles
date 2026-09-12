@@ -3,7 +3,7 @@ import plotly.express as px
 import streamlit as st
 
 # Cabeçalho do aplicativo
-st.header('Dashboard de Veículos de Luxo: Maserati', divider='rainbow')
+st.header('Dashboard de Veículos de Luxo: Carros Esportivos', divider='rainbow')
 st.write(
     'Este aplicativo web interativo foi desenvolvido para explorar dados de'
     ' veículos, com foco em modelos esportivos e de luxo.'
